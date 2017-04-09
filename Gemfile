@@ -16,6 +16,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'simple_form'
 gem 'bootstrap-sass'
+gem 'ckeditor'
 
 
 group :development, :test do
