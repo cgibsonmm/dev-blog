@@ -17,6 +17,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'simple_form'
 gem 'bootstrap-sass'
 gem 'ckeditor'
+gem 'devise'
 
 
 group :development, :test do
